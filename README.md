@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethminim&label=Profile%20views&color=0e75b6&style=flat" alt="nethminim" /> </p>
 
-- 🔭 I’m currently working on **Web design frontend**
+- 🔭 I’m currently working on **Web design frontend**, **UI/UX Designing
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, ** MERN Stack**,**Figma**
 
 - 📫 How to reach me **nethmithambawita2001@gmail.com**
 
