@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web design frontend**, **UI/UX Designing
 
-- 🌱 I’m currently learning **Java**, ** MERN Stack** ,**Figma**
+- 🌱 I’m currently learning **Java**, MERN Stack ,**Figma**
 
 - 📫 How to reach me **nethmithambawita2001@gmail.com**
 
