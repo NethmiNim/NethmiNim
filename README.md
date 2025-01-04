@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nethmi Thambawita</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate Software Engineer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethminim&label=Profile%20views&color=0e75b6&style=flat" alt="nethminim" /> </p>
 
-- 🔭 I’m currently working on **Web design frontend**, **UI/UX Designing
+- 🔭 I’m currently working as a **Intern-Software Engineer**,
 
-- 🌱 I’m currently learning **Java**, MERN Stack ,**Figma**
+- 🌱 I’m currently learning **MERN Stack **, ,**Figma**,**Software Testing**
 
 - 📫 How to reach me **nethmithambawita2001@gmail.com**
 
