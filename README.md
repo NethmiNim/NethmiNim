@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as an **Intern-Software Engineer**,
 
-- 🌱 I’m currently learning **MERN Stack **, ,**Figma**,**Software Testing**
+- 🌱 I’m currently learning **MERN Stack,**Figma**,**Software Testing**
 
 - 📫 How to reach me **nethmithambawita2001@gmail.com**
 
