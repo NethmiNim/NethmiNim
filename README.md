@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethminim&label=Profile%20views&color=0e75b6&style=flat" alt="nethminim" /> </p>
 
-- 🔭 I’m currently working as a **Intern-Software Engineer**,
+- 🔭 I’m currently working as an **Intern-Software Engineer**,
 
 - 🌱 I’m currently learning **MERN Stack **, ,**Figma**,**Software Testing**
 
